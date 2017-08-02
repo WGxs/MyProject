@@ -12,5 +12,10 @@ public class JavaFirst {
         {
            System.out.println("HelloWorld!");
         }
+ 	public void testHello2()
+        {
+           System.out.println("HelloWorld!");
+        }
+	
 
 }
