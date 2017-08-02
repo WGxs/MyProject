@@ -18,7 +18,7 @@ public class JavaFirst {
         }
 
 	
-	public void testHello3()
+	public void testHello5()
         {
            System.out.println("HelloWorld!");
         }
