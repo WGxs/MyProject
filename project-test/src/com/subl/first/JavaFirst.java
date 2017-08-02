@@ -16,6 +16,11 @@ public class JavaFirst {
         {
            System.out.println("HelloWorld!");
         }
+
 	
+	public void testHello3()
+        {
+           System.out.println("HelloWorld!");
+        }
 
 }
